@@ -38,6 +38,6 @@ public class ModifikasiSiakadWhile17 {
             }
 
             i++;
-        }
+        }sc.close();
     }
 }
